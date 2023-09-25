@@ -1,0 +1,31 @@
+---
+title: "M249 Practical Modern Statistics"
+about:
+  id: context
+  template: solana
+  image: "images/beforeM249.png"
+---
+
+::: {#context}
+# context
+
+[M249](https://www.open.ac.uk/courses/modules/m249) is a second level Maths and Statistics model, with four sections:
+
+1.  medical statistics
+
+2.  time series
+
+3.  multivariate analysis
+
+4.  Bayesian statistics
+
+------------------------------------------------------------------------
+:::
+
+# block 4
+
+## Bayesian triplot
+
+Some students have found that the windows app "Learn Bayes" does not properly display triplots when running in virtualization software (e.g. Parallels on macOS).
+
+This is my in-browser version, created with Shiny: [betabinomial triplot](https://sagesse.shinyapps.io/betabinomial/)

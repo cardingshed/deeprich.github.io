@@ -1,0 +1,21 @@
+---
+title: "M347 Mathematical Statistics"
+about:
+  id: context
+  template: solana
+  image: "images/einstein.jpg"
+---
+
+::: {#context}
+# context
+
+[M347](https://www.open.ac.uk/courses/modules/m347) is a third level Maths and Statistics model, taking a deep dive into the mathematics behind key statistical ideas as diverse as the Central Limit Theorem, MCMC and generalized linear models.
+
+:::
+
+# tutorials
+
+Added through the academic year
+
+# apps
+

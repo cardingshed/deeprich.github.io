@@ -1,0 +1,27 @@
+---
+title: "M348 Applied Statistical Modelling"
+about:
+  id: context
+  template: solana
+  image: "images/statart.png"
+---
+
+::: {#context}
+# context
+
+[M348](https://www.open.ac.uk/courses/modules/m348) is a third level Maths and Statistics model, using R and Jupyter notebooks, with three sections:
+
+1.  linear models
+
+2.  generalized linear models
+
+3.  A: Econometrics or B: Data Science
+
+:::
+
+# tutorials
+
+Added through the academic year
+
+# apps
+

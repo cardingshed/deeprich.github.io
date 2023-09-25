@@ -1,0 +1,9 @@
+---
+title: "Welcome to"
+---
+
+![](images/status.png)
+
+**My personal website, a digital garden with small fixes 🌸 and orphan pages for work-in-progress 🪴**
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

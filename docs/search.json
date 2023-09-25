@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to",
+    "section": "",
+    "text": "My personal website, a digital garden with small fixes 🌸 and orphan pages for work-in-progress 🪴\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "M347.html",
+    "href": "M347.html",
+    "title": "M347 Mathematical Statistics",
+    "section": "",
+    "text": "context\nM347 is a third level Maths and Statistics model, taking a deep dive into the mathematics behind key statistical ideas as diverse as the Central Limit Theorem, MCMC and generalized linear models.\n\n    \n    \n  \n\n\n\ntutorials\nAdded through the academic year\n\n\napps"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "richard johnson",
+    "section": "",
+    "text": "Welcome\nRichard’s about page\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "M348.html",
+    "href": "M348.html",
+    "title": "M348 Applied Statistical Modelling",
+    "section": "",
+    "text": "context\nM348 is a third level Maths and Statistics model, using R and Jupyter notebooks, with three sections:\n\nlinear models\ngeneralized linear models\nA: Econometrics or B: Data Science\n\n\n    \n    \n  \n\n\n\ntutorials\nAdded through the academic year\n\n\napps"
+  },
+  {
+    "objectID": "M249.html",
+    "href": "M249.html",
+    "title": "M249 Practical Modern Statistics",
+    "section": "",
+    "text": "M249 is a second level Maths and Statistics model, with four sections:\n\nmedical statistics\ntime series\nmultivariate analysis\nBayesian statistics"
+  },
+  {
+    "objectID": "M249.html#bayesian-triplot",
+    "href": "M249.html#bayesian-triplot",
+    "title": "M249 Practical Modern Statistics",
+    "section": "Bayesian triplot",
+    "text": "Bayesian triplot\nSome students have found that the windows app “Learn Bayes” does not properly display triplots when running in virtualization software (e.g. Parallels on macOS).\nThis is my in-browser version, created with Shiny: betabinomial triplot"
+  }
+]

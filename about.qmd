@@ -1,0 +1,15 @@
+---
+title: "richard johnson"
+image: "images/portrait3.jpg"
+about: 
+  template: trestles
+  image-shape: round
+---
+
+# Welcome
+
+Richard's about page
+
+```{r}
+1 + 1
+```
